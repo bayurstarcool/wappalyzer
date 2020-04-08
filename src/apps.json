@@ -8970,6 +8970,18 @@
       "implies": "Go",
       "website": "https://revel.github.io"
     },
+    "Gin": {
+      "cats": [
+        18
+      ],
+      "cookies": {
+        "GIN_FLASH": "",
+        "GIN_SESSION": ""
+      },
+      "icon": "gin.png",
+      "implies": "Go",
+      "website": "https://gin-gonic.com"
+    },
     "Revslider": {
       "cats": [
         19
